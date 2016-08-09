@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;redis_url.txt&apos; to &apos;cs-application-retrieval-lab-codeU/javacs-lab12/src/resources&apos;&#x0D;&#x0A;- Original project: &apos;cs-application-crawling-lab-codeU&apos;&#x0D;&#x0A;- Destination element: &apos;cs-application-retrieval-lab-codeU/javacs-lab12/src/resources&apos;&#x0D;&#x0A;- Original element: &apos;redis_url.txt&apos;" description="Copy file" destination="=cs-application-retrieval-lab-codeU/javacs-lab12\/src&lt;resources" element1="javacs-lab11/src/resources/redis_url.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1470651890244" units="0" version="1.0"/>
+</session>

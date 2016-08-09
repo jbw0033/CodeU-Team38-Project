@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="WikiSearchTest" project="cs-application-retrieval-lab-codeU" tests="4" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.flatironschool.javacs.WikiSearchTest" incomplete="true">
+    <testcase name="testAnd" classname="com.flatironschool.javacs.WikiSearchTest" incomplete="true"/>
+    <testcase name="testMinus" classname="com.flatironschool.javacs.WikiSearchTest" incomplete="true"/>
+    <testcase name="testSort" classname="com.flatironschool.javacs.WikiSearchTest" incomplete="true"/>
+    <testcase name="testOr" classname="com.flatironschool.javacs.WikiSearchTest" incomplete="true"/>
+  </testsuite>
+</testrun>

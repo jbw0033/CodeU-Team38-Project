@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="javacs-lab04/src"/>
+	<classpathentry kind="lib" path="javacs-lab04/lib/commons-math3-3.6.jar"/>
+	<classpathentry kind="lib" path="javacs-lab04/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="javacs-lab04/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="javacs-lab04/lib/servlet.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="javacs-lab04/bin"/>
+</classpath>

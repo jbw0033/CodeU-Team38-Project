@@ -1,0 +1,8 @@
+bin
+junit
+out
+.DS_Store
+*.swp
+*.log
+.idea
+cs-hello-world-lab.iml

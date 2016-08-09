@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+C:\Sites\cs-java-hello-world-lab-codeU\.metadata\.plugins\org.eclipse.jdt.core

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/cs-making-an-indexer-lab-codeU/javacs-lab06/src/com/flatironschool/javacs/Index.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.flatironschool.javacs.Index"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="cs-making-an-indexer-lab-codeU"/>
+</launchConfiguration>

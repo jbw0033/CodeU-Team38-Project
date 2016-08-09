@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ListSorterTest" project="cs-application-sorting-lab-codeU" tests="5" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.flatironschool.javacs.ListSorterTest" incomplete="true">
+    <testcase name="testMergeSort" classname="com.flatironschool.javacs.ListSorterTest" incomplete="true"/>
+    <testcase name="testTopK" classname="com.flatironschool.javacs.ListSorterTest" incomplete="true"/>
+    <testcase name="testHeapSort" classname="com.flatironschool.javacs.ListSorterTest" incomplete="true"/>
+    <testcase name="testMergeSortInPlace" classname="com.flatironschool.javacs.ListSorterTest" incomplete="true"/>
+    <testcase name="testInsertionSort" classname="com.flatironschool.javacs.ListSorterTest" incomplete="true"/>
+  </testsuite>
+</testrun>
