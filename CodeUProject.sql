@@ -47,7 +47,7 @@ create table hash (
 create table hashField (
   hashID text,
   fieldID text UNIQUE,
-  primary key (hashID),
+  primary key (hashID, fieldID),
   foreign key (hashID) references hash (hashID)
     on delete cascade
 );
